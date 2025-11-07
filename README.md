@@ -1,3 +1,5 @@
 # Supabase Docker
 
-This is a minimal Docker Compose setup for self-hosting Supabase. Follow the steps [here](https://supabase.com/docs/guides/hosting/docker) to get started.
+This is a setup for Supabase on Coolify to get more control over the deployment.
+
+This will run on multiple servers and use an external postgres database.
